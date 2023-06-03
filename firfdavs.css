@@ -1,0 +1,258 @@
+.nav{
+    width: 100%;
+    height: 15vh;
+}
+.nava{
+    color: rgb(92, 90, 90);
+    margin-left: 60px;
+    margin-top: 30px;
+    font-size: 17px;
+}
+.nav button{
+    width: 70px;
+    height: 30px;
+    margin-left: 90%;
+    margin-top: -50px;
+    border: 1px solid rgb(150, 150, 150);
+    border-radius:5px;
+}
+.nav button:hover{
+background-color: rgb(158, 158, 158);
+}
+.nav i{
+    color: #fff;
+    font-size: 10px;
+}
+.nav h1{
+    margin-left: 450px;
+    font-size: 45px;
+     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+     text-decoration-line:underline;
+}
+.nav h1:hover{
+    text-decoration-line:none;
+}
+.diva{
+display: flex;
+}
+.diva a{
+    color: rgb(92, 90, 90);
+    margin-left: 50px;
+}
+.divqora{
+    width: 90%;
+    height: 70vh;
+    background-color: rgb(41, 43, 44);
+    border-radius: 10px;
+    margin-left: 60px;
+    margin-top: 20px;
+}
+.divqora h1{
+    padding: 25px;
+    color: #fff;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.divqora p{
+    color: #fff;
+    padding: 25px;
+}
+.divqora a{
+    color: #fff;
+    font-size: 20px;
+    padding: 25px;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.div22{
+display: flex;
+justify-content:space-evenly;
+margin-top: 20px;
+}
+.div1{
+    width: 45%;
+    height: 40vh;
+    border: 1px solid rgb(137, 134, 134);
+    border-radius: 8px;
+}
+ h6{
+    padding: 10px;
+    color: blue;
+    padding-left: 28px;
+}
+.div1 h1{
+    padding-left: 25px;
+}
+.div1 p{
+    padding-left: 25px;
+}
+.div1 a{
+    padding-left: 25px;
+}
+.div2{
+    width: 45%;
+    height: 40vh;
+    border: 1px solid rgb(137, 134, 134);
+    border-radius: 8px;
+ 
+   
+}
+.div2 h6{
+    padding: 10px;
+    color: darkgreen;
+    padding-left: 28px;
+     
+}
+.div2 h1{
+    padding-left: 25px;
+    
+}
+.div2 p{
+    padding-left: 25px; 
+}
+.div2 a{
+    padding-left: 25px;
+   
+    
+}
+.div2 h5{
+    width: 30%;
+    height: 100%;
+    background-color: rgb(61, 57, 57);
+    color: #fff;
+    text-align: center;
+    border-radius: 8px;
+    margin-left: 70%;
+    padding-top: 15%;
+    margin-top: -215px;
+}
+.div1 h5{
+    width: 30%;
+    height: 100%;
+    background-color: rgb(61, 57, 57);
+    color: #fff;
+    text-align: center;
+    border-radius: 8px;
+    margin-left: 70%;
+    padding-top: 15%;
+    margin-top: -215px;
+}
+.ikkidiv{
+    width: 100%;
+    height: 235rem;
+    border: 1px solid rgb(194, 194, 194);
+}
+.ikkidiv h2{
+    margin-top: 20px;
+    margin-left:  30px; 
+}
+.divv{
+    width: 60vh;
+    height: 105vh;
+    background-color: rgb(255, 250, 250);
+    border-radius: 8px;
+                  margin-left: 65%;
+    position:sticky;
+    top:2rem;
+    bottom: 200px;
+    margin-top: -3600px;
+    
+}
+.divv a{
+    display: flex;
+    padding-left: 15px;
+   
+}
+.divv h1{
+    padding: 10px;
+}
+.divv p{
+    padding: 10px;
+}
+.divvv{
+    width: 69%;
+    display: inline-block;
+}
+/* .p1{
+    margin-top: 70px!important;
+    margin-left:-330px!important;
+
+} */
+.divvv h1{
+    padding: 20px;
+}
+.divvv p{
+   padding-left: 20px;
+}
+.divvv ul{
+margin-left: 30px;
+}
+.divvv ul li{
+    padding-top: 10px;
+}
+.divvv ol{
+    margin-left: 30px;
+}
+    .divvv ol li{
+        padding-top: 10px;
+}
+.divvv h5{
+    margin-left: 30px;
+}
+.a11{
+    margin-left: 30px;
+}
+li span{
+    color: rgb(234, 59, 187);
+}
+#n{
+text-decoration: underline;
+}
+.s1{
+    text-decoration: line-through;
+}
+table{
+    width: 600px;
+    height: 200px;
+    border: black;
+    margin-left: 50px;
+}
+
+.on1{
+border: 1px solid blue;
+border-radius: 20px;
+width: 80px;
+height: 40px;
+margin-left: 100px;
+}
+.on2{
+    border: 1px solid rgb(112, 112, 112);
+    border-radius: 20px;
+    width: 90px;
+    height: 40px;   
+}
+.an1{
+    color: blue;
+}
+.an2{
+    color: darkgrey;
+}
+.on1:hover{
+    background-color: rgb(68, 68, 218);
+  
+}
+.an1:hover{
+    color: #fff;
+}
+.vv{
+    margin-left: 450px;
+    margin-top: 100px;
+    width: 400px;
+    height: 100px;
+}
+.pa{
+    margin-left: 100px;
+}
+
+
+
+
